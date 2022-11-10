@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "a1OvWcRt1oiK9fnf9s48otFoO9UDj1yspFuIt5bkReWqXFdjL0rYUkBi7rXgzYexB6bqHXcs+PtpYs1dgcXJfg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Тестовое задание для работы\\ClientAppliaction\\ClientAppliaction\\ClientAppliaction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lolki\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\lolki\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\lolki\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
